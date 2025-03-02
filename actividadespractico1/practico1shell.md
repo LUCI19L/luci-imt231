@@ -32,7 +32,7 @@
 3. Guarda los cambios, asigna permisos de ejecución y ejecútalo:  
    ```bash
    chmod +x practica2.sh
-   ./practica2.sh
+   ./practica2.s h
 
 ## **3. Creación de múltiples archivos y directorios**  
 📺 **Objetivo:** Automatizar la creación de archivos y directorios con un solo comando.  
