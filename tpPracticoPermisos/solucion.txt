@@ -1,0 +1,10 @@
+# Ejercicio 1
+¿Qué número de permisos aplicarías y qué comando ejecutarías?
+ utilizaria 640, el 6 de 4 + 2, el 4 de solo lectura y 0 para no acceder, luego usaria el comando chmod 640 solucion.txt 
+# ejercicio 2 
+¿Qué comando aplicarías para asignar estos permisos?
+utlizaria el 7 para que el propiertario pueda acceder a todo y en grupo y otros el 1 para que solo lo ejecuten y seria chmod 711
+# ejercicio 3
+chmod 600 para que el propiertario pueda leer y escribir, y los grupos y otros no tengan acceso
+# ejercicio 4
+utilizaria chmod 400 para que el propietario solo pueda leer y 00 para que los grupos y otros no tengan acceso
